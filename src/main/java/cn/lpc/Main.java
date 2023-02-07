@@ -14,5 +14,6 @@ public class Main {
         System.out.println("master2");
         System.out.println("Hello world!");
         System.out.println("hot-fix change push");
+         System.out.println("gitee change push");
     }
 }
